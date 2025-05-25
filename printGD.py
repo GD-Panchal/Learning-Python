@@ -1,0 +1,7 @@
+print(' GGGGGG     DDDDDD')
+print('GG     G    D     D')
+print('G           D     D')
+print('G           D     D')
+print('G    GGG    D     D')
+print('G      G    D     D')
+print(' GGGGGG     DDDDDD')
